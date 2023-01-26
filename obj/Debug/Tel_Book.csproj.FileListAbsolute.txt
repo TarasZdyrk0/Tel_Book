@@ -1,0 +1,8 @@
+D:\VS\Tel_Book\bin\Debug\Tel_Book.exe.config
+D:\VS\Tel_Book\bin\Debug\Tel_Book.exe
+D:\VS\Tel_Book\bin\Debug\Tel_Book.pdb
+D:\VS\Tel_Book\obj\Debug\Tel_Book.csproj.AssemblyReference.cache
+D:\VS\Tel_Book\obj\Debug\Tel_Book.csproj.SuggestedBindingRedirects.cache
+D:\VS\Tel_Book\obj\Debug\Tel_Book.csproj.CoreCompileInputs.cache
+D:\VS\Tel_Book\obj\Debug\Tel_Book.exe
+D:\VS\Tel_Book\obj\Debug\Tel_Book.pdb
